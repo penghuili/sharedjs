@@ -1,0 +1,27 @@
+{
+  "name": "sharedjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "0.27.2",
+    "eventemitter3": "5.0.0",
+    "grommet": "2.29.0",
+    "grommet-icons": "4.8.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.5",
+    "redux": "4.2.0",
+    "redux-saga": "1.2.2",
+    "wouter": "2.9.0"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-react": "7.30.1",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "prettier": "2.7.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
