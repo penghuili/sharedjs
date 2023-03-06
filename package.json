@@ -4,6 +4,7 @@
   "dependencies": {
     "axios": "0.27.2",
     "claudia-api-builder": "4.1.2",
+    "date-fns": "2.29.3",
     "eventemitter3": "5.0.0",
     "grommet": "2.29.0",
     "grommet-icons": "4.8.0",
@@ -25,6 +26,7 @@
     "eslint-plugin-react": "7.30.1",
     "eslint-plugin-react-hooks": "4.6.0",
     "prettier": "2.7.1",
+    "preval.macro": "5.0.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
