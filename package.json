@@ -2,6 +2,8 @@
   "name": "sharedjs",
   "version": "1.0.0",
   "dependencies": {
+    "@dnd-kit/core": "6.0.8",
+    "@dnd-kit/sortable": "7.0.2",
     "@tiptap/extension-typography": "2.0.4",
     "@tiptap/pm": "2.0.4",
     "@tiptap/react": "2.0.4",
