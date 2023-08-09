@@ -4,6 +4,8 @@
   "dependencies": {
     "@dnd-kit/core": "6.0.8",
     "@dnd-kit/sortable": "7.0.2",
+    "@tiptap/extension-task-item": "2.0.4",
+    "@tiptap/extension-task-list": "2.0.4",
     "@tiptap/extension-typography": "2.0.4",
     "@tiptap/pm": "2.0.4",
     "@tiptap/react": "2.0.4",
@@ -19,6 +21,8 @@
     "grommet-icons": "4.10.0",
     "jsonwebtoken": "9.0.0",
     "jwt-decode": "3.1.2",
+    "lodash.get": "4.4.2",
+    "lodash.set": "4.3.2",
     "lodash.uniqby": "4.7.0",
     "openpgp": "5.5.0",
     "qrcode.react": "3.1.0",
