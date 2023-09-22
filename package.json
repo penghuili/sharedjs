@@ -17,6 +17,7 @@
     "copy-to-clipboard": "3.3.3",
     "date-fns": "2.29.3",
     "eventemitter3": "5.0.0",
+    "framer-motion": "10.16.4",
     "got-scraping": "3.2.12",
     "grommet": "2.31.0",
     "grommet-icons": "4.10.0",
@@ -33,8 +34,11 @@
     "react-redux": "8.0.5",
     "redux": "4.2.0",
     "redux-saga": "1.2.2",
+    "streamsaver": "2.0.6",
+    "styled-components": "5.3.6",
     "short-unique-id": "4.4.4",
     "uuid": "8.3.2",
+    "web-streams-polyfill": "3.2.1",
     "wouter": "2.9.0"
   },
   "devDependencies": {
